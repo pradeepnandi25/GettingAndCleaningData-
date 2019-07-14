@@ -33,9 +33,9 @@ You should create one R script called run_analysis.R that does the following.
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/tidyData.txt "tidyData.txt")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/blob/master/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/CodeBook.md "CodeBook.md")
-README | Reading It Now |  [Repo Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/README.md "README.md")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/blob/master/CodeBook.md "CodeBook.md")
+README | Reading It Now |  [Repo Link](https://github.com/pradeepnandi25/GettingAndCleaningDataProject/blob/master/README.md "README.md")
 
